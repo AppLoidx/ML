@@ -1,2 +1,3 @@
-# ML
-Machine Learning Labarotory Works
+# Линейная регрессия
+
+Файлы дополнительно обработаны [скриптом](script.py) на питоне
