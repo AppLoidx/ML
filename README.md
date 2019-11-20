@@ -1,4 +1,4 @@
-# ML
+# Machine Learning
 Machine Learning Labarotory Works
 
 * [Первая лаба - Pandas](lab-1)
@@ -6,6 +6,9 @@ Machine Learning Labarotory Works
 * [Третья лаба - SVM и Дерево решений](lab-3)
 * [Четвертая лаба - Кластеризация](lab-4)
 * [Пятая лаба - Нейронные сети](lab-5)
+* [Шестая лаба -  Сверточные нейронные сети, CNN](lab-6)
+
+
 
 
 
