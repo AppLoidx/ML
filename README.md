@@ -1,4 +1,6 @@
 # Machine Learning
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AppLoidx/ML.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AppLoidx/ML/context:python)
+
 Machine Learning Labarotory Works
 
 * [Первая лаба - Pandas](lab-1)
